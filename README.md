@@ -17,11 +17,11 @@ This is a simple client-server chat application using Java Sockets.
 ## How to Run
 
 1. Compile both files:
-   javac ChatServerX.java
-   javac ChatClientX.java
+   javac ChatServerXX.java
+   javac ChatClientXX.java
 
 2. Run server:
-   java ChatServerX
+   java ChatServerXX
 
 3. Run client (in another terminal):
-   java ChatClientX
+   java ChatClientXX
